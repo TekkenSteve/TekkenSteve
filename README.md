@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 18 March 2024 - To: 25 March 2024
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 𝗦𝘁𝗮𝘁𝘀
