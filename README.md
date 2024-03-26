@@ -1,4 +1,4 @@
-### Hi there 👋
+## 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 TekkenSteve 👋
 
 <!--
 **TekkenSteve/TekkenSteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,30 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 18 March 2024 - To: 25 March 2024
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=TekkenSteve)
+## 𝗦𝘁𝗮𝘁𝘀
 
 
-<!-- 紧凑语言卡片 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenSteve&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 更多置顶 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TekkenSteve&repo=github-readme-stats)](https://github.com/TekkenSteve/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TekkenSteve&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenSteve&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
