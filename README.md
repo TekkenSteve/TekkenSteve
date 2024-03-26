@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- 紧凑语言卡片 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenSteve&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 更多置顶 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TekkenSteve&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TekkenSteve&repo=github-readme-stats)](https://github.com/TekkenSteve/github-readme-stats)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
