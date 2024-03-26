@@ -18,4 +18,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=TekkenSteve)
+
+
+<!-- 紧凑语言卡片 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenSteve&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 更多置顶 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TekkenSteve&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
