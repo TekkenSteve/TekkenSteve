@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2024 - To: 28 March 2024
+From: 22 March 2024 - To: 29 March 2024
 
-Java             8 hrs 24 mins   █████████████████████████   100.00 %
+Java             8 hrs 38 mins   ██████████████████████░░░   87.75 %
+XML              1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
 Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
