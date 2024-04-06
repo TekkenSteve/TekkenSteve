@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2024 - To: 04 April 2024
+From: 29 March 2024 - To: 05 April 2024
 
-Java                    26 hrs 7 mins   █████████████████████░░░░   83.85 %
-ANTLR v4 grammar file   2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-Text                    1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-XML                     1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Other                   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Java                    26 hrs 11 mins  █████████████████████▓░░░   86.53 %
+ANTLR v4 grammar file   2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+Text                    1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Other                   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Shell Script            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
