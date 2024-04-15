@@ -40,7 +40,7 @@ Objective-C             3 mins          ░░░░░░░░░░░░░�
 
 
 
-| [TekkenSteve's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TekkenSteve&range=all_time&layout=compact&theme=transparent) |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TekkenSteve&range=all_time&layout=compact&theme=transparent" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
