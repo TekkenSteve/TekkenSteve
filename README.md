@@ -35,8 +35,7 @@ Objective-C             3 mins          ░░░░░░░░░░░░░�
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TekkenSteve&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenSteve&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TekkenSteve&range=all_time&layout=compact&theme=transparent" /></a>
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TekkenSteve&range=all_time&layout=compact&theme=transparent&v=2" /></a>
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
