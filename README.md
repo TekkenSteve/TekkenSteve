@@ -40,7 +40,7 @@ Objective-C             3 mins          ░░░░░░░░░░░░░�
 
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=TekkenSteve&count_private=true&show_icons=true&include_all_commits=true&title_color=359697&icon_color=359697&hide_border=true&theme=transparent" alt="TekkenSteve's github stats" /> <br/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenSteve&layout=compact&title_color=359697&icon_color=359697&hide_border=true&theme=transparent&langs_count=8" /> | ![TekkenSteve's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TekkenSteve&range=all_time&layout=compact&theme=transparent) |
+| [TekkenSteve's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TekkenSteve&range=all_time&layout=compact&theme=transparent) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
