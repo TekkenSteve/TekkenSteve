@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
+<!--
 
-
-- <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```txt
 From: 07 April 2024 - To: 14 April 2024
@@ -29,8 +29,9 @@ ANTLR v4 grammar file   4 mins          ░░░░░░░░░░░░░�
 Objective-C             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
-- <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+ -->
 ## 𝗦𝘁𝗮𝘁𝘀
 
 
