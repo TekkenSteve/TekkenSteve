@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2024 - To: 18 April 2024
+From: 12 April 2024 - To: 19 April 2024
 
-C++           15 hrs 52 mins  ████████████████████▓░░░░   82.21 %
-C             2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-Java          55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-JSON          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Objective-C   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+C++           15 hrs 52 mins  ████████████████████▒░░░░   81.92 %
+C             2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+Java          55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+JSON          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
