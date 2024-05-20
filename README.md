@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2024 - To: 18 May 2024
+From: 12 May 2024 - To: 19 May 2024
 
-Assembly     5 hrs 53 mins   ████████████████████▒░░░░   81.63 %
-Java         1 hr 13 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Assembly     8 hrs 24 mins   ████████████████▓░░░░░░░░   66.05 %
+Java         4 hrs 2 mins    ████████░░░░░░░░░░░░░░░░░   31.78 %
+Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
