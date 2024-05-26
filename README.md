@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2024 - To: 24 May 2024
+From: 18 May 2024 - To: 25 May 2024
 
-Java       10 hrs 59 mins  █████████████████▓░░░░░░░   70.53 %
-Assembly   2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
-XML        1 hr 49 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-Text       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Go         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Java       17 hrs 45 mins  ████████████████████░░░░░   79.46 %
+Assembly   2 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+XML        1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Text       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Go         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
