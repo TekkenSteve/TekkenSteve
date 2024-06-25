@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2024 - To: 23 June 2024
+From: 17 June 2024 - To: 24 June 2024
 
-Go               3 hrs 42 mins   ██████████████▒░░░░░░░░░░   57.86 %
-Java             1 hr 40 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
-Assembly         1 hr 1 min      ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java             1 hr 40 mins    █████████▓░░░░░░░░░░░░░░░   39.21 %
+Go               1 hr 34 mins    █████████▒░░░░░░░░░░░░░░░   36.74 %
+Assembly         1 hr 1 min      ██████░░░░░░░░░░░░░░░░░░░   23.86 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
