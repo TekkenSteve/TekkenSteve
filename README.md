@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2024 - To: 25 June 2024
+From: 19 June 2024 - To: 26 June 2024
 
-Java             1 hr 40 mins    ██████████████▓░░░░░░░░░░   58.76 %
-Assembly         1 hr 10 mins    ██████████▒░░░░░░░░░░░░░░   40.96 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Java             1 hr 40 mins    █████████▒░░░░░░░░░░░░░░░   37.87 %
+Python           1 hr 34 mins    █████████░░░░░░░░░░░░░░░░   35.54 %
+Assembly         1 hr 10 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
