@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2024 - To: 28 June 2024
+From: 22 June 2024 - To: 29 June 2024
 
-Python     1 hr 34 mins    ██████████████░░░░░░░░░░░   56.28 %
-Assembly   38 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
-Java       27 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-Text       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Python     1 hr 34 mins    ██████████████░░░░░░░░░░░   56.66 %
+Java       55 mins         ████████▒░░░░░░░░░░░░░░░░   33.26 %
+Assembly   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Text       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
 <!--END_SECTION:waka-->
