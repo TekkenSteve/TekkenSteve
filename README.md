@@ -19,13 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2024 - To: 16 July 2024
+From: 10 July 2024 - To: 17 July 2024
 
-Objective-C   16 mins         ███████████▒░░░░░░░░░░░░░   45.72 %
-TOML          13 mins         █████████▓░░░░░░░░░░░░░░░   39.08 %
-C             4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-C++           1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-CMake         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TOML   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
