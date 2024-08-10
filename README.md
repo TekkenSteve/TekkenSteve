@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2024 - To: 08 August 2024
+From: 02 August 2024 - To: 09 August 2024
 
-C++           15 mins         ████████████████████████▒   96.96 %
-C             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+C++           19 mins         ███████████████████▒░░░░░   77.21 %
+Objective-C   5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
+C             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
