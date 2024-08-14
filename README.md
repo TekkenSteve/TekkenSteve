@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2024 - To: 12 August 2024
+From: 06 August 2024 - To: 13 August 2024
 
 EJS           2 hrs 2 mins    ██████████▒░░░░░░░░░░░░░░   41.35 %
 Less          1 hr 23 mins    ███████░░░░░░░░░░░░░░░░░░   28.46 %
