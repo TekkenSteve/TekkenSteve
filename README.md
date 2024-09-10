@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2024 - To: 08 September 2024
+From: 02 September 2024 - To: 09 September 2024
 
-C++           5 hrs 36 mins   █████████████████▓░░░░░░░   71.19 %
-YAML          1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-Go            54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-TOML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Other         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+C++           5 hrs 37 mins   ████████████████████▒░░░░   81.77 %
+YAML          1 hr 6 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+TOML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+C             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
