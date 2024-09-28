@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2024 - To: 26 September 2024
+From: 20 September 2024 - To: 27 September 2024
 
-C          3 hrs 10 mins   ███████████████████████░░   91.70 %
-Text       12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-Makefile   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+C          5 hrs 36 mins   ███████████████████░░░░░░   76.17 %
+Text       57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Makefile   26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Other      16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Python     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
