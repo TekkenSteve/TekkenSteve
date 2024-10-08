@@ -19,12 +19,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2024 - To: 06 October 2024
+From: 30 September 2024 - To: 07 October 2024
 
-C++        2 hrs 11 mins   ███████████████████▓░░░░░   78.32 %
-YAML       31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
-Makefile   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+YAML   3 mins          ██████████████▓░░░░░░░░░░   59.16 %
+C++    2 mins          ██████████▒░░░░░░░░░░░░░░   40.84 %
 ```
 
 <!--END_SECTION:waka-->
