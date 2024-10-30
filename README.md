@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2024 - To: 28 October 2024
+From: 22 October 2024 - To: 29 October 2024
 
-Java            1 hr 43 mins    █████████████▓░░░░░░░░░░░   54.95 %
-XML             41 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
-PlantUML file   21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-SQL             21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
-Properties      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Java            1 hr 43 mins    ████████████░░░░░░░░░░░░░   47.85 %
+XML             41 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
+C++             27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
+PlantUML file   21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+SQL             21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
 ```
 
 <!--END_SECTION:waka-->
