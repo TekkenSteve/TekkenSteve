@@ -19,13 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2024 - To: 01 November 2024
+From: 26 October 2024 - To: 02 November 2024
 
-Java            1 hr 43 mins    ████████████░░░░░░░░░░░░░   47.85 %
-XML             41 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-C++             27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-PlantUML file   21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
-SQL             21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+C++   27 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
