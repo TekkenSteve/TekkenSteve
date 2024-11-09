@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2024 - To: 07 November 2024
+From: 01 November 2024 - To: 08 November 2024
 
 C++               2 hrs 52 mins   ████████████▓░░░░░░░░░░░░   50.89 %
 JSON              2 hrs 1 min     █████████░░░░░░░░░░░░░░░░   35.86 %
