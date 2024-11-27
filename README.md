@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2024 - To: 25 November 2024
+From: 19 November 2024 - To: 26 November 2024
 
-Python           4 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   44.69 %
-C++              2 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   32.82 %
-Java             1 hr 24 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
-JSON             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-CMake            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Python   4 hrs 2 mins    ██████████████░░░░░░░░░░░   56.41 %
+C++      2 hrs 20 mins   ████████▒░░░░░░░░░░░░░░░░   32.77 %
+Java     18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+JSON     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+CMake    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
