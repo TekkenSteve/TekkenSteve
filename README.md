@@ -19,13 +19,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2024 - To: 30 November 2024
+From: 24 November 2024 - To: 01 December 2024
 
-Java    1 hr 12 mins    ████████████░░░░░░░░░░░░░   48.06 %
-C++     59 mins         ██████████░░░░░░░░░░░░░░░   39.41 %
-JSON    10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-CMake   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Java   1 hr 12 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
