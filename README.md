@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2024 - To: 14 December 2024
+From: 08 December 2024 - To: 15 December 2024
 
-Python       5 hrs 28 mins   █████████████████████▒░░░   85.57 %
-C++          46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-SSH Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python       47 mins         ███████████▓░░░░░░░░░░░░░   46.40 %
+C++          46 mins         ███████████▒░░░░░░░░░░░░░   44.80 %
+SSH Config   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+XML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
