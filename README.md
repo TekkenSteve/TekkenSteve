@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2024 - To: 20 December 2024
+From: 14 December 2024 - To: 21 December 2024
 
-XML     1 min           ███████████████▓░░░░░░░░░   62.63 %
-Other   0 secs          █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
-Java    0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+XML    9 mins          ████████████████████▒░░░░   81.14 %
+Java   2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
 ```
 
 <!--END_SECTION:waka-->
