@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2024 - To: 24 December 2024
+From: 18 December 2024 - To: 25 December 2024
 
-XML       9 mins          ███████████▒░░░░░░░░░░░░░   45.30 %
-ASP.NET   8 mins          ███████████░░░░░░░░░░░░░░   44.17 %
-Java      2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+Java             35 mins         ███████████████░░░░░░░░░░   59.91 %
+XML              14 mins         ██████░░░░░░░░░░░░░░░░░░░   23.84 %
+ASP.NET          8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
+ECLiPSe          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
