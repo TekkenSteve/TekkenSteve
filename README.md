@@ -19,13 +19,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
-Python           1 hr 34 mins    █████████████▓░░░░░░░░░░░   54.32 %
-Java             1 hr 11 mins    ██████████▒░░░░░░░░░░░░░░   41.20 %
-XML              5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-C#               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-ECLiPSe          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Python   1 hr 34 mins    ██████████████████░░░░░░░   71.40 %
+Java     37 mins         ███████░░░░░░░░░░░░░░░░░░   28.60 %
 ```
 
 <!--END_SECTION:waka-->
