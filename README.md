@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2025 - To: 08 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
 C++     2 hrs 14 mins   ███████████████████████▓░   94.58 %
 CMake   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
