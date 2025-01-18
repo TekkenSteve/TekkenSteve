@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2025 - To: 16 January 2025
+From: 10 January 2025 - To: 17 January 2025
 
 Java         1 min           ██████████████▓░░░░░░░░░░   58.64 %
 XML          1 min           ██████████▒░░░░░░░░░░░░░░   41.21 %
