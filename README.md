@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2025 - To: 07 February 2025
+From: 01 February 2025 - To: 08 February 2025
 
-No activity tracked
+C++   38 mins         █████████████▓░░░░░░░░░░░   54.73 %
+C     31 mins         ███████████▒░░░░░░░░░░░░░   45.27 %
 ```
 
 <!--END_SECTION:waka-->
