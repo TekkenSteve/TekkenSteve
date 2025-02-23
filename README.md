@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2025 - To: 21 February 2025
+From: 15 February 2025 - To: 22 February 2025
 
-C                25 mins         ███████████░░░░░░░░░░░░░░   44.31 %
-SQL              11 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
-CMake            7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-Markdown         6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
-C++              3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+TypeScript        1 hr 10 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
+SQL               41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+Vue.js            38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
+YAML              29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+C                 25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
 ```
 
 <!--END_SECTION:waka-->
