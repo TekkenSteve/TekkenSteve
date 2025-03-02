@@ -19,13 +19,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2025 - To: 28 February 2025
+From: 22 February 2025 - To: 01 March 2025
 
-C++               3 hrs 58 mins   █████████████░░░░░░░░░░░░   51.72 %
-TypeScript        1 hr 10 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
-Vue.js            38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-YAML              29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-SQL               29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+C++   13 hrs 2 mins   █████████████████████████   99.99 %
+C     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
