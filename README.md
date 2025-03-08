@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2025 - To: 06 March 2025
+From: 28 February 2025 - To: 07 March 2025
 
-C++   20 hrs 44 mins  █████████████████████████   99.99 %
-C     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C++            18 hrs 35 mins  ████████████████████████▒   97.13 %
+C              22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+CMake          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Other          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
