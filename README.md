@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2025 - To: 22 March 2025
+From: 16 March 2025 - To: 23 March 2025
 
-C++           22 hrs 8 mins   █████████████████████████   99.36 %
-Bash          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-C             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C++           26 hrs 48 mins  █████████████████████████   99.45 %
+Bash          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+C             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
