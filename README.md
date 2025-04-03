@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2025 - To: 01 April 2025
+From: 26 March 2025 - To: 02 April 2025
 
-Java             1 hr 17 mins    ██████████████░░░░░░░░░░░   55.81 %
-C++              34 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
-Python           17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-XML              6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-SQL              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Java             1 hr 17 mins    ██████████████████▓░░░░░░   74.43 %
+Python           17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
+XML              6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+SQL              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+ECLiPSe          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
