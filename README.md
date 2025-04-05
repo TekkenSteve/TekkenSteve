@@ -40,7 +40,7 @@ YAML     5 mins          ▓░░░░░░░░░░░░░░░░░�
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TekkenSteve&range=all_time&layout=compact&theme=buefy&hide_border=true&v=2" /></a>
     </td>
-    <td width="50%">
+    <td width="40%">
       <ul>
           <li>🔭 I’m currently working on refining my own libraries (wheels) to handle common, high-performance tasks in both my learning and work.</li>
           <li>🌱 I’m currently learning everything that helps me solve problems. Specifically, I’m transitioning from Qt to Flutter to develop a valuable cross-platform application.</li>
