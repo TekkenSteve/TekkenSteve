@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2025 - To: 03 April 2025
+From: 28 March 2025 - To: 04 April 2025
 
-Python   17 mins         █████████████████████████   100.00 %
+Dart     2 hrs 36 mins   █████████████████████▓░░░   87.27 %
+Python   17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+YAML     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
