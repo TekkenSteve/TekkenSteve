@@ -58,6 +58,6 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
 
 ## 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲
 
-[![Gmail](https://img.shields.io/badge/-zvoice.king@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jiachangqiu12@gmail.com)
+[![Gmail](https://img.shields.io/badge/-jiachangqiu12@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jiachangqiu12@gmail.com)
 [![GitHub Issues](https://img.shields.io/badge/-Submit_Issue-181717?style=flat&logo=GitHub)](https://github.com/TekkenSteve/TekkenSteve/issues)
 
