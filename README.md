@@ -48,7 +48,6 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
           <li>👯 I’m looking to collaborate on projects involving micro-large language models for data processing, including BI on the web and offline text intent and location analysis on personal devices, as well as building knowledge graphs. (Maybe I can be of some use 😄)</li>
           <li>🤔 I’m looking for help with the same areas as my collaboration interests. Any insights or expertise would be greatly appreciated.</li>
           <li>💬 Ask me about any programming-related questions. However, if it involves highly complex mathematical knowledge, please spare me and challenge the mathematicians instead. 😄</li>
-          <li>📫 How to reach me: [Your Contact Information]</li>
           <li>😄 Pronouns: He/Him</li>
           <li>⚡ Fun fact: I believe every great solution starts with proper open-source reconnaissance!</li>
           <li>🚀 I’m looking forward to a workflow where I don’t have to worry about deadlines, allowing me to optimize code like optimizing game strategy frames, write comprehensive test cases, and ensure everything is polished to perfection.</li>
