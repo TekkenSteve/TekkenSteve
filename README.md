@@ -19,13 +19,9 @@ Solution* create(Demand *d) {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2025 - To: 12 April 2025
+From: 06 April 2025 - To: 13 April 2025
 
-CMake      21 mins         ████████░░░░░░░░░░░░░░░░░   31.61 %
-Other      14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
-Python     13 mins         █████░░░░░░░░░░░░░░░░░░░░   20.45 %
-C++        8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-Bash       7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+Python   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
