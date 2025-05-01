@@ -19,13 +19,11 @@ Solution* create(Demand *d) {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 April 2025 - To: 29 April 2025
+From: 23 April 2025 - To: 30 April 2025
 
-Go           4 hrs 17 mins   ██████████████░░░░░░░░░░░   55.44 %
-Dart         2 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
-Bash         38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-Makefile     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-sh           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Go      4 hrs 17 mins   ████████████████████████▓   98.96 %
+JSON    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
