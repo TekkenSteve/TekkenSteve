@@ -19,13 +19,13 @@ Solution* create(Demand *d) {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2025 - To: 16 May 2025
+From: 10 May 2025 - To: 17 May 2025
 
-Dart              5 hrs 26 mins   ███████▓░░░░░░░░░░░░░░░░░   30.73 %
-YAML              4 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   23.48 %
-Groovy            2 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
-Java              1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-Other             1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+YAML              3 hrs 31 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
+Dart              2 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
+Groovy            2 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
+Java              1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Other             1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
 ```
 
 <!--END_SECTION:waka-->
