@@ -19,7 +19,7 @@ Solution* create(Demand *d) {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2025 - To: 07 July 2025
+From: 01 July 2025 - To: 08 July 2025
 
 C++        2 hrs 46 mins   █████████████████░░░░░░░░   68.02 %
 CMake      56 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.27 %
