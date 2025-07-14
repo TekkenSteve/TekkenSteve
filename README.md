@@ -19,13 +19,13 @@ Solution* create(Demand *d) {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2025 - To: 12 July 2025
+From: 06 July 2025 - To: 13 July 2025
 
-CMake        3 hrs 28 mins   █████████▓░░░░░░░░░░░░░░░   38.49 %
-C++          3 hrs 4 mins    ████████▓░░░░░░░░░░░░░░░░   34.05 %
-Markdown     1 hr 24 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-Text         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-Assembly     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+C++           4 hrs 43 mins   ██████████▓░░░░░░░░░░░░░░   42.56 %
+CMake         3 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   31.56 %
+Markdown      1 hr 39 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
+Text          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Assembly      16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
