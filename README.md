@@ -19,12 +19,13 @@ Solution* create(Demand *d) {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2025 - To: 10 August 2025
+From: 04 August 2025 - To: 11 August 2025
 
-C++        1 hr 1 min      ████████████████████████░   95.59 %
-Python     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Lua        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+C++        3 hrs 11 mins   ███████████████████████░░   91.90 %
+JSON       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Python     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Lua        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
