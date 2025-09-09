@@ -19,9 +19,9 @@ Solution* create(Demand *d) {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2025 - To: 07 September 2025
+From: 01 September 2025 - To: 08 September 2025
 
-Python       55 mins         █████████▒░░░░░░░░░░░░░░░   37.01 %
+Python       55 mins         █████████▒░░░░░░░░░░░░░░░   37.03 %
 Vue.js       49 mins         ████████▒░░░░░░░░░░░░░░░░   33.26 %
 JavaScript   18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
 Other        12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
