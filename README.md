@@ -1,3 +1,6 @@
+
+
+
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 TekkenSteve 👋  
 
 ## 🔮 My Working Thought
@@ -41,8 +44,8 @@ No activity tracked
     <td width="40%">
       <ul>
           <li>🔭 I’m currently working on refining my own libraries (wheels) to handle common, high-performance tasks in both my learning and work.</li>
-          <li>🌱 I’m currently learning everything that helps me solve problems. Specifically, I’m transitioning from Qt to Flutter to develop a valuable cross-platform application.</li>
-          <li>👯 I’m looking to collaborate on projects involving micro-large language models for data processing, including BI on the web and offline text intent and location analysis on personal devices, as well as building knowledge graphs. (Maybe I can be of some use 😄)</li>
+          <li>🌱 I’m currently leveling up in the cloud-native space: hacking on Cilium’s eBPF dataplane (Go/C) to make Kubernetes networks faster and more transparent, and wrangling Suna-based agents (Python) to turn messy docs into smart Anki decks.</li>
+          <li>👯 I’m open to teaming up on anything that mixes eBPF observability, agentic workflows, or knowledge-graph magic—whether it’s tracing a kernel bug in 5 min or auto-generating flash-cards from a 300-slide PDF. Let’s build!(Maybe I can be of some use 😄)</li>
           <li>🤔 I’m looking for help with the same areas as my collaboration interests. Any insights or expertise would be greatly appreciated.</li>
           <li>💬 Ask me about any programming-related questions. However, if it involves highly complex mathematical knowledge, please spare me and challenge the mathematicians instead. 😄</li>
           <li>😄 Pronouns: He/Him</li>
