@@ -22,13 +22,13 @@ Solution* create(Demand *d) {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 07 January 2026
+From: 01 January 2026 - To: 08 January 2026
 
-YAML              7 hrs 32 mins   ████████████████░░░░░░░░░   64.52 %
-Docker            1 hr 46 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
-Go                54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-Bash              30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Other             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+YAML              8 hrs 9 mins    █████████████░░░░░░░░░░░░   51.43 %
+Go                3 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   20.23 %
+Docker            1 hr 59 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+Markdown          1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Bash              30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
 ```
 
 <!--END_SECTION:waka-->
