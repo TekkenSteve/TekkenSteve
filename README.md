@@ -26,7 +26,11 @@ Open for freelance work (**system security / AI agents / cloud-native**) with re
 | High-Performance Agent Infra | 2026 | Merging kernel optimization with AI engineering, distributed inference | ⚪ Planned |
 
 &gt; **Why such a broad tech stack?**  
-&gt; Starting from application layers, I kept hitting performance walls that trace back to kernel and networking. Security products pushed me deeper into system internals. Now, reimagining knowledge workflows with AI, these experiences inform **when to move fast with Python versus when to harden performance with C++/eBPF**. Breadth serves engineering judgment, not resume padding.
+&gt; Feynman's "What I cannot create, I do not understand" has always guided me. I began with Java—tangible, surface-level tools. But AI's explosion and Java's impending contraction pushed me to build a LangChain4j data agent. For someone who sees code as superhuman extension of will, top-down learning was inevitable: security and "hacker" skills came next (production work followed, though the field's closed nature limited my impact).
+
+The data agent stalled—too dependent on data scale and iteration speed for a solo builder, and agent engineering lacked coherent paradigms then. Restless, I joined CAS Open Source Summer for cloud-native infrastructure (OpenELB), while security work simultaneously revealed how closed that world was. Cloud-native's openness and AI's potential won me over.
+
+This path emerged from weighing trends, reality, and self-knowledge—not impulse. Mao's "Practice is the sole criterion for truth" holds true: I tested my way forward rather than following hype. And always, Feynman's challenge: What I cannot create, I do not understand.
 
 ---
 
