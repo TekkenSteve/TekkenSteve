@@ -1,141 +1,126 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=120&section=header)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=TekkenSteve" alt="name" />
-      </h1>
-    </summary>
-  </ul>
-</div>
+## About
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Kernel-space+hacker%2C+User-space+orchestrator;Building+AI+agents+on+high-performance+infra" alt="title" />
-</p>
+Full-stack engineer focused on **high-performance infrastructure** and **AI engineering**. From kernel networking to agent systems, I optimize for engineering trade-offs under constraints.  
+Open for freelance work (**system security / AI agents / cloud-native**) with reasonable budgets — reach out via [jiachangqiu12@gmail.com](mailto:jiachangqiu12@gmail.com)
 
-<p align="center">
-  <a href="https://github.com/cilium/cilium/pulls?q=author%3ATekkenSteve" target="_blank"><img src="https://img.shields.io/badge/Cilium-Active%20Contributor-7952B3?style=for-the-badge&logo=cilium&logoColor=white" height="24"></a>
-  <img src="https://img.shields.io/badge/Focus-AI%20Agent%20Engineering-00D9FF?style=for-the-badge&logo=openai&logoColor=white" height="24">
-</p>
+---
 
-<br>
+## Tech Stack
 
-**<h3 align="left">🎯 Currently</h3>**
-<p align="left">
-  <img src="https://img.shields.io/badge/🔥-Shipping%20Kardcraft%20v2.0-red?style=flat-square" height="20"> 
-  <img src="https://img.shields.io/badge/🌱-Deep%20diving%20XDP%2FeBPF-00D9FF?style=flat-square" height="20"> 
-  <img src="https://img.shields.io/badge/💡-Open%20to%20System%20Design%20collabs-58A6FF?style=flat-square" height="20">
-</p>
+**Systems & Kernel:** C++ · eBPF · Windows Driver · Linux Kernel Hook · Sandboxing  
+**Cloud Native:** Go · Kubernetes · Cilium · OpenELB · Prometheus · Grafana  
+**AI Engineering:** Python · LangGraph · VLLM · PyTorch · LoRA Fine-tuning  
+**Infra:** Temporal · Redis · PostgreSQL · API6 · Kratos · ZeroMQ
 
-- **Building:** Kardcraft (AI knowledge engine processing 5k+ PDFs/day)
-- **Contributing:** Cilium eBPF datapath optimizations  
-- **Exploring:** Distributed LLM inference & kernel-bypass networking
+---
 
-<br>
+## Roadmap
 
-**<h3 align="left">⚡ Signature Work</h3>**
+| Phase | Timeline | Focus | Status |
+|:---|:---|:---|:---|
+| Application Foundation | 2023-2024 | Full-stack delivery, business-to-data pipeline | ✅ Completed |
+| Cloud-Native & System Security | 2024-2025 | Kernel-space deep dive, eBPF/Windows security mechanisms | ✅ Completed |
+| AI Engineering | 2025-Present | Productizing LLMs, building scalable agent systems | 🟢 Active |
+| High-Performance Agent Infra | 2026 | Merging kernel optimization with AI engineering, distributed inference | ⚪ Planned |
 
-<table>
-<tr>
-<td width="50%" valign="top">
+&gt; **Why such a broad tech stack?**  
+&gt; Starting from application layers, I kept hitting performance walls that trace back to kernel and networking. Security products pushed me deeper into system internals. Now, reimagining knowledge workflows with AI, these experiences inform **when to move fast with Python versus when to harden performance with C++/eBPF**. Breadth serves engineering judgment, not resume padding.
 
-**🧠 Kardcraft** — *AI Knowledge Engine*
-> Production SaaS turning 300-page PDFs into structured memory cards
+---
 
-- **Stack:** `Temporal` · `LangGraph` · `Rust` · `Milvus` · `Neo4j`
-- **Scale:** 3-day durable workflows, P95 <5min parsing, 99.2% success
-- **Impact:** NPS 52, 42% retention, 5k+ tasks/day
+## Projects
 
-</td>
-<td width="50%" valign="top">
+### Knowledge Base Card-Draw SaaS Agent — AI Knowledge Engine
+`[Solo/Organizer]` · Jun 2025 - Present  
+**Stack:** Python · LangGraph · Go · Temporal · Redis · PostgreSQL · API6 · Kratos  
+- Structured knowledge extraction for complex documents, persistent workflows for 300+ page PDFs  
+- Open-source release planned, stay tuned
 
-**⚙️ Cilium** — *eBPF Networking* ([Contributor](https://github.com/cilium/cilium))
-> Production-grade Kubernetes network debugging & optimization
+### Cilium — Kubernetes eBPF CNI
+`[Contributor/Extension]` · Jun 2025 - Present  
+**Stack:** Go  
+- eBPF-based networking, security policies, and observability enhancements
 
-- **Debug:** 5-min root cause on TCP RST anomalies (Hubble/strace/lsof)
-- **Optimize:** eBPF datapath tuning for high-throughput K8s clusters
-- **Focus:** Kernel-space packet processing & observability
+### AI Social IM & Entrepreneur AI Avatar
+`[Contributor/Extension]` · Nov 2025 - Mar 2026  
+**Stack:** Python · LangGraph · WeClone  
+- LoRA fine-tuning for personalized dialogue, multi-agent social scenarios
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### Observability Platform
+`[Solo/Organizer]` · Dec 2025  
+**Stack:** Prometheus · Grafana · Alertmanager  
+- End-to-end monitoring stack design and custom exporter development
 
-**🌐 High-Perf Gateway** — *System Design*
-> Custom WebSocket/TCP gateway handling 100k+ concurrent connections
+### TTS Parallel Inference Acceleration
+`[Contributor/Extension]` · Nov 2025  
+**Stack:** Python · PyTorch · VLLM · IndexTTS · Nginx  
+- Throughput optimization for text-to-speech inference parallelization
 
-- **Arch:** Single-thread epoll + coroutine model (inspired by libco)
-- **Performance:** 300k frames/sec WebSocket parsing, 4Gbps throughput
-- **Tech:** C++11, zero-copy buffer, lock-free queues
+### Windows Secure Browsing Space & System Menu
+`[Contributor/Extension]` · Sep 2025 - Oct 2025  
+**Stack:** C++ · Sandboxie Plus · C#
 
-</td>
-<td width="50%" valign="top">
+### Windows Server Multi-Session Keepalive & Audit Service
+`[Contributor/Extension]` · Jun 2025 - Aug 2025  
+**Stack:** C++ · ZeroMQ  
+- Core monitor service maintenance for multi-session stability and operation auditing
 
-**🔍 Previous Experience** — *Select Roles*
-- **AI Infra:** VLLM inference optimization, LangGraph RAG (+45% accuracy)
-- **Cloud Security:** Zero-Trust VPN (10w+ conn), eBPF traffic audit (300k files/sec)
-- **System Security:** Cross-platform C++ (x86/ARM/MIPS), kernel module dev
+### VPN & Port Knocking Component Improvements
+`[Contributor/Extension]` · Jun 2025 - Aug 2025  
+**Stack:** C++ · Tailscale · WireGuard
 
-</td>
-</tr>
-</table>
+### Remote Control DVC Plugin & MSTSC Implementation
+`[Contributor/Extension]` · May 2025 - Jun 2025  
+**Stack:** C++ · Qt · ATL/WRL · DLL Injection  
+- DVC plugin for RDP, Qt-based MSTSC client compatible with Win7-Win11
 
-<br>
+### Linux Secure Workspace
+`[Contributor/Extension]` · Feb 2025 - Apr 2025  
+**Stack:** C++ · Firejail · seccomp-bpf Hot-loading · eBPF Network Auditing
 
-**<h3 align="left">🛠️ Tech Arsenal</h3>**
+### Confidentiality Scanner & Sensitive Data Detection
+`[Contributor/Extension]` · Dec 2024 - Apr 2025  
+**Stack:** C++ · ext/FAT/NTFS Partition Recovery · FastText · Qt · SQLite  
+- Deep filesystem scanning with OCR for images, videos, and compressed archives
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left; margin-bottom: 8px;">
-<strong>Languages:</strong>
-<img src="https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white" height="22" alt="C++">
-<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="22" alt="Go">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="22" alt="Python">
-<img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" height="22" alt="Java">
-<img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" height="22" alt="Rust">
-</div>
+### WebSocket Server Gateway
+`[Solo/Organizer]` · Oct 2024 - Mar 2025  
+**Stack:** C++  
+- High-performance gateway based on sylar framework, scheduler inspired by libco coroutine model
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left; margin-bottom: 8px;">
-<strong>Infrastructure:</strong>
-<img src="https://img.shields.io/badge/eBPF-FF6C37?logo=linux&logoColor=white" height="22" alt="eBPF">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="22" alt="K8s">
-<img src="https://img.shields.io/badge/Temporal-000000?logo=temporal&logoColor=white" height="22" alt="Temporal">
-<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="22" alt="Redis">
-<img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white" height="22" alt="Neo4j">
-</div>
+### Linux USB Device & Domain-Level Network Control
+`[Contributor/Extension]` · Oct 2024 - Dec 2024  
+**Stack:** C++ · udev · eBPF · Kernel Module · Qt  
+- Batch management of peripheral access and network permissions across multiple hosts
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left; margin-bottom: 8px;">
-<strong>Observability:</strong>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" height="22" alt="Prometheus">
-<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" height="22" alt="Grafana">
-<img src="https://img.shields.io/badge/Hubble-7952B3?logo=cilium&logoColor=white" height="22" alt="Hubble">
-<img src="https://img.shields.io/badge/Loki-F4B95A?logo=grafana&logoColor=white" height="22" alt="Loki">
-<img src="https://img.shields.io/badge/ELK-005571?logo=elastic&logoColor=white" height="22" alt="ELK">
-</div>
+### Storage Media Sanitization Tool
+`[Contributor/Extension]` · Sep 2024 - Oct 2024  
+**Stack:** C++ · Kernel Hook · Qt  
+- Multi-pass overwrite for USB and disk data, meeting secure destruction standards
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-<strong>AI/ML:</strong>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" height="22" alt="LangChain">
-<img src="https://img.shields.io/badge/Milvus-00A3E0?logo=milvus&logoColor=white" height="22" alt="Milvus">
-</div>
+### OpenELB IPv6 Support
+`[Contributor/Extension]` · Jun 2024 - Sep 2024  
+**Stack:** Go  
+- IPv6 IPAM for KubeSphere OpenELB controller and multi-mode IPv6 announcement for speaker
 
-<br>
+### AIGC-Powered Intelligent BI Platform
+`[Solo/Organizer]` · Mar 2024 - Jun 2024  
+**Stack:** Java · Vue · LangChain4j · Spring Boot · MyBatis · Redis · RabbitMQ  
+- Dataset and log ingestion with automated visualization and analytical insights generation
 
-**<h3 align="left">📊 Engineering Metrics</h3>**
+### University Food Delivery System
+`[Solo/Organizer]` · Jul 2023 - Aug 2023  
+**Stack:** Java · Vue · Spring Boot · Nginx · Redis · Alibaba Cloud OSS · MySQL  
+- Web + mini-program dual platform, integrated Amap API and WeChat Pay
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TekkenSteve&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=20" alt="trophy" />
-</p>
+---
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TekkenSteve&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7952B3&cache_seconds=3600" alt="stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekkenSteve&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&layout=compact&cache_seconds=3600" alt="langs" />
-</p>
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TekkenSteve&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=7952B3&point=FF6B6B&area=true" width="95%" alt="activity" />
-</p>
-
-<br>
+- 📧 [jiachangqiu12@gmail.com](mailto:jiachangqiu12@gmail.com)  
+- 💬 [GitHub Issues](https://github.com/TekkenSteve/TekkenSteve/issues) — for technical discussions on eBPF, AI agents, system security
 
 **<h3 align="left">🤝 Collaboration</h3>**
 
