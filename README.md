@@ -39,8 +39,7 @@ This path emerged from weighing trends, reality, and self-knowledge—not impuls
 ### Knowledge Base Card-Draw SaaS Agent — AI Knowledge Engine
 `[Solo/Organizer]` · Jun 2025 - Present  
 **Stack:** Python · LangGraph · Go · Temporal · Redis · PostgreSQL · API6 · Kratos  
-- Structured knowledge extraction for complex documents, persistent workflows for 300+ page PDFs  
-- Open-source release planned, stay tuned
+- https://github.com/TekkenSteve/Kardcraft
 
 ### Cilium — Kubernetes eBPF CNI
 `[Contributor/Extension]` · Jun 2025 - Present  
